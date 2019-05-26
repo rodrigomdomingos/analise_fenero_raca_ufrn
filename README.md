@@ -1,5 +1,6 @@
 # Análise de cursos da UFRN
-Análise da diferença de gêneros e de raça nos cursos de graduação e pós-graduação da UFRN do período de 2009 até 2019
+Análise da diferença de gêneros e de raça nos cursos de graduação e pós-graduação da UFRN do período de 2009 até 2019.
+Utilizando a linguagem python, com a biblioteca pandas para plotar gráficos.
 
 Tecnologia da Informação, 
 Ciências e Tecnologia, 
